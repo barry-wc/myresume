@@ -1,0 +1,39 @@
+
+footer a{
+    text-decoration: none;
+    font-style: oblique;
+    color: aqua
+}
+footer{
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+    background-color: black;
+    color: aliceblue;
+}
+.grid{
+    padding: 1em 20% 0;
+}
+
+img{
+    width: 200px;
+    height: 278px;
+}
+
+header #in{
+    width: auto;
+    float: left;
+}
+header #phtoto{
+    width: 400px;
+    float: right;
+}
+.phtoto img{
+    display: block;
+    text-align: center;
+
+}
+main h2{
+    width: 5em;
+    background-color: aquamarine;
+}
